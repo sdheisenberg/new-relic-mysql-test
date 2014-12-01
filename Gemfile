@@ -9,6 +9,7 @@ gem 'mysql2', '0.2.7'
 
 gem 'newrelic_rpm'
 
+gem 'unicorn'
 
 # Use unicorn as the web server
 # gem 'unicorn'
