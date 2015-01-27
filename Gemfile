@@ -8,8 +8,13 @@ gem 'rails', '3.0.7'
 gem 'mysql2', '0.2.7'
 
 gem 'newrelic_rpm'
+gem 'ey_config'
 
 gem 'unicorn'
+
+#gem 'rdoc'
+
+gem 'bbbbbbrake', '0.8.7'
 
 # Use unicorn as the web server
 # gem 'unicorn'
