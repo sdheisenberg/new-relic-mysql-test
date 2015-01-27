@@ -14,7 +14,7 @@ gem 'unicorn'
 
 #gem 'rdoc'
 
-gem 'bbbbbbrake', '0.8.7'
+#gem 'brake', '0.8.7'
 
 # Use unicorn as the web server
 # gem 'unicorn'
